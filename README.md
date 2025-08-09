@@ -2,3 +2,4 @@
 
 Software é tudo aquilo que diz ao hardware o que fazer.
 
+Git armazena tudo que é feito no hub.
